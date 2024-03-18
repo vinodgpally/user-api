@@ -1,4 +1,5 @@
 # Read Me First
+user-api is a RESTful Spring Boot application it deals with user CRUD operations
 The following are steps as part of building this user-api project:
 
 ### Tools required
